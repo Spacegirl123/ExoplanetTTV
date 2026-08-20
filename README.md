@@ -3,7 +3,7 @@
 NEPTUNE is a pipeline designed to detect and characterize hidden planetary companions using Transit Timing Variations (TTVs). By combining N-body simulations, machine learning, and Bayesian inference, NEPTUNE addresses the challenges of detecting long-period or non-transiting exoplanets and refining the orbital parameters of known systems.
 
 
-Hybrid Approach: Merge N-body simulations, machine learning (Random Forest), and Bayesian inference (MCMC) to detect unseen planets and determine their mass, orbital period, and eccentricity.
+Hybrid Approach: Combine N-body simulations, machine learning (Random Forest), and Bayesian inference (MCMC) to detect unseen planets and determine their masses, orbital periods, and eccentricities.
 
 Efficient Parameter Estimation: Use machine learning models trained on an extensive grid of synthetic TTV signals to provide informative priors for Bayesian sampling methods.
 
