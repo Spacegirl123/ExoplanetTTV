@@ -1,4 +1,5 @@
-# NEPTUNE (N-body Exoplanet Prediction using TTV for UNseen Exoplanets)
+# NEPTUNE
+## (N-body Exoplanet Prediction using TTV for UNseen Exoplanets)
 
 NEPTUNE is a computational pipeline for investigating unseen planetary companions through Transit Timing Variations (TTVs). Instead of relying on a hidden planet to transit its host star, NEPTUNE looks for its gravitational effect on a planet that does transit: an additional companion can cause successive transits to occur slightly earlier or later than predicted. The project combines observed transit data, N-body simulations, machine learning, and Bayesian inference to constrain the mass, orbital period, and eccentricity of possible perturbing planets.
 
