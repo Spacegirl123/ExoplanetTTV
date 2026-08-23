@@ -102,7 +102,7 @@ The broader goal of NEPTUNE is to make dynamical TTV analysis more **automated, 
 
 By combining archival transit observations with simulation-based learning and Bayesian inference, the pipeline provides a framework for investigating planetary systems in which additional planets may be difficult or impossible to detect directly through transits.
 
-### Key Features
+## Key Features
 
 Hybrid Approach: Combine N-body simulations, machine learning (Random Forest), and Bayesian inference (MCMC) to detect unseen planets and determine their masses, orbital periods, and eccentricities.
 
